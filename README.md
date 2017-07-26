@@ -15,4 +15,17 @@ Wenn jemand Lust hat sich hier regelmässiger einzubringen, können wir auch üb
 
 Ich habe lange überlegt in welcher Form so eine Seite Sinn machen kann und bin schliesslich zu dem Schluss gekommen, das ein WIKI zu aufwändig ist und eine Online-Excelliste nicht genügend Möglichkeiten bietet. Nach dem Vorbild einiger anderer FAQ Listen würde ich dies auch gerne weitestgehend in einer langen Seite belassen, da diese wunderbar mit Strg+F durchsuchbar bleibt!
 
+
+# Fragen und Antworten:
+
+Ich würde jetzt erstmal ohne eine besondere Sortierung anfangen alle Fragen die wirklich häufig aufkommen hier aufzulisten. Eine Sortierung kann im nächsten Schritt vollzogen werden!
+
+##Ich habe einen Anet A8 und meine Gewindestangen der Z-Achse sind zu kurz?
+
+Höchstwahrscheinlich ist dein Coupler (das Teil welches Motor mit Gewindestange verbindet nicht richtig verbaut. Löse die kleinen Madenschrauben mit einem Innensechskant und installiere den Coupler wie folgt:
+https://3dprint.wiki/_media/reprap/anet/a8/dsc03281.jpg?w=400
+
+Die Stange des Motors, sowie die Gewindestange sollten jeweils ca 5-10mm in den Coupler reinstehen und dann verschraubt werden. Der mittlere rote Bereich sollte "freigelassen" werden, damit das Teil auch seinen Dienst vollziehen kann Schwingungen zu dämpfen.
+
+
  
