@@ -24,7 +24,7 @@ Ich würde jetzt erstmal ohne eine besondere Sortierung anfangen alle Fragen die
 
 Höchstwahrscheinlich ist dein Coupler (das Teil welches Motor mit Gewindestange verbindet nicht richtig verbaut. Löse die kleinen Madenschrauben mit einem Innensechskant und installiere den Coupler wie folgt:
 
-![couplerbild](https://3dprint.wiki/_media/reprap/anet/a8/dsc03281.jpg?w=400 "Couplerbild")
+![couplerbild](https://github.com/twobeass/AnetFAQ/blob/master/images/coupler.jpg "Couplerbild")
 
 Die Stange des Motors, sowie die Gewindestange sollten jeweils ca 5-10mm in den Coupler reinstehen und dann verschraubt werden. Der mittlere rote Bereich sollte "freigelassen" werden, damit das Teil auch seinen Dienst vollziehen kann Schwingungen zu dämpfen.
 
